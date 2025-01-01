@@ -1,4 +1,4 @@
-### Understanding Candlestick Chart Patterns: A Detailed Guide
+### 60 candlestick chart patterns pdf: A Detailed Guide
 
 Candlestick chart patterns are an essential tool for traders. They help predict price movements in the stock market. These patterns are formed by the price action of an asset over a specific time period. They are displayed as candles on a chart, making them easy to analyze visually.
 
